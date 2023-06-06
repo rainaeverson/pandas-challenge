@@ -1,6 +1,9 @@
 # pandas-challenge
 
 
+#Referenced parameters documentation to correctly sort be lowest/highest values in DataFrame: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
+
+#Tutor session: Going over fundamentals, documentation digestion, overall success habits, creation and format of DataFrames.
 
 #AskBCS Learning Assistant zoom: Discussed purpose of summarizing data, how to set up dataframes to have school name as index in order to perform calculations on
     the data in other variables/dataframes created previously([12]), how to start solving problems by first commenting what I am trying to achieve and the rough idea
