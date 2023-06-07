@@ -1,4 +1,6 @@
 # pandas-challenge
+#Article about exporting DataFrames as PNG files: https://randomds.com/2021/12/23/visualize-and-save-full-pandas-dataframes-as-images/
+#Documentation on installing dataframe_image: https://pypi.org/project/dataframe-image/0.0.7/
 
 #df.format.style documentation for clarification on formatting: https://pandas.pydata.org/docs/reference/api/pandas.io.formats.style.Styler.format.html
 
