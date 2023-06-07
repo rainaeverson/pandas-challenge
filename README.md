@@ -1,6 +1,19 @@
 # pandas-challenge
 
 
+
+#Using loc and iloc article: https://www.analyticsvidhya.com/blog/2020/02/loc-iloc-pandas/
+
+#Error search for input arrays and their dimensions: https://www.geeksforgeeks.org/how-to-fix-all-input-arrays-must-have-same-number-of-dimensions/
+
+#pd.cut documentation for binning values: https://pandas.pydata.org/docs/reference/api/pandas.cut.html
+
+#index.rename documentation for index manipulation: https://pandas.pydata.org/docs/reference/api/pandas.Index.rename.html
+
+#df.groupby documentation for groupby parameters and functions: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+
+#df.map documentation to format DataFrames: https://pandas.pydata.org/docs/reference/api/pandas.Series.map.html
+
 #Referenced parameters documentation to correctly sort be lowest/highest values in DataFrame: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
 
 #Tutor session: Going over fundamentals, documentation digestion, overall success habits, creation and format of DataFrames.
