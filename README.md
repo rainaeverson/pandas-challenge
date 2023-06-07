@@ -2,6 +2,8 @@
 #Article about exporting DataFrames as PNG files: https://randomds.com/2021/12/23/visualize-and-save-full-pandas-dataframes-as-images/
 #Documentation on installing dataframe_image: https://pypi.org/project/dataframe-image/0.0.7/
 
+#Table visualization documentation to add titles to DataFrames: https://pandas.pydata.org/docs/user_guide/style.html
+
 #df.format.style documentation for clarification on formatting: https://pandas.pydata.org/docs/reference/api/pandas.io.formats.style.Styler.format.html
 
 #df.replace for reverting to float value: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html
