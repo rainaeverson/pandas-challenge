@@ -1,6 +1,10 @@
 # pandas-challenge
 
+#df.format.style documentation for clarification on formatting: https://pandas.pydata.org/docs/reference/api/pandas.io.formats.style.Styler.format.html
 
+#df.replace for reverting to float value: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html
+
+#Convert string to float: https://www.statology.org/pandas-remove-characters-from-string/
 
 #Using loc and iloc article: https://www.analyticsvidhya.com/blog/2020/02/loc-iloc-pandas/
 
